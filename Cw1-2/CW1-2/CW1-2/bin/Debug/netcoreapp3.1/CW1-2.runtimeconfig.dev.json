@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\zaiae\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zaiae\\.nuget\\packages"
+    ]
+  }
+}

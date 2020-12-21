@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            String characterName ="Ahmad" , SuperPower1= "Steel Sheild" , SuperPower2="Night Vision";
+            String characterName ="Ahmad" , SuperPower1= "Steel Sheild" , SuperPower2="night vision";
             int age = 15;
 
             String HeroName = "Zoey" ,heroSuperPower1 = "Disappear", heroSuperPower2= " night vision" ;
@@ -18,6 +18,8 @@ namespace ConsoleApp1
 
             int diff = heroAge - age;
             Console.WriteLine("The age difference between two hero are " + heroAge + " - " + age + " = " + diff);
+
+            Console.WriteLine(SuperPower1 = heroSuperPower1);
 
         }
     }
